@@ -13519,7 +13519,6 @@ index.php
 install.php
 /config/*
 !/config/config.php
-/controllers/*
 /init/*
 /logs/*
 /phproad/*
